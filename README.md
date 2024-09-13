@@ -15,7 +15,7 @@ All user information is stored locally.
 
 IV. User Rights  
 A User of the Service has the right to: access their personal data, withdraw consent at any time (without affecting the legality of processing based on consent before its withdrawal).  
-Requests regarding User rights should be sent to untitiledgames393@gmail.com.  
+Requests regarding User rights should be sent to untitledgames393@gmail.com.  
 The Administrator fulfills or refuses the request promptly – no later than within one month of receiving it.  
 
 V. Automated Decision-Making and Profiling  
