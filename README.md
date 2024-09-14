@@ -6,7 +6,7 @@ The Service collects only the personal data necessary to provide and improve the
 Personal data collected through the Service are processed in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation, hereinafter GDPR), as well as the Personal Data Protection Act of May 10, 2018.
 
 II. Data Administrator
-The administrator of personal data collected through the Service is Maciej Fryz, address: Bębło, ul. Leśna 22, e-mail: untitledgames393@gmail.com (hereinafter: the Administrator).
+The administrator of personal data collected through the Service is Maciej Fryz, e-mail: untitledgames393@gmail.com (hereinafter: the Administrator).
 
 III. Purpose of Data Collection  
 Personal data are used for managing the game  
